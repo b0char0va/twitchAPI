@@ -1,0 +1,48 @@
+.filter-btn{
+    font-size: 14px;
+    color: white;
+    background: none;
+    border: none;
+    text-decoration: underline;
+}
+
+.filter-btn:hover{
+    color: wheat;
+}
+
+a{
+    color: white;
+}
+
+a:hover{
+    color: wheat;
+}
+
+.size{
+    max-width: 50px;
+    max-height: 50px;
+}
+
+img{
+    vertical-align:middle;
+}
+
+.text{
+    line-height: 46px;
+}
+
+.statusText{
+    overflow: hidden;
+    height: 50px;
+    line-height: 46px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-style: italic;
+}
+
+.hide{
+    display: none;
+}
+
+
+
